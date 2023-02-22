@@ -1,3 +1,5 @@
+const newElement = document.getElementById('new-id');
+
 const celar = () => {
   console.log(true);
 
@@ -7,3 +9,4 @@ const celar = () => {
     id: Math.random(),
   }
 };
+
