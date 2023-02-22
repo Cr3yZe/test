@@ -7,3 +7,5 @@ const celar = () => {
     id: Math.random(),
   }
 };
+
+const newVar = 'string';
